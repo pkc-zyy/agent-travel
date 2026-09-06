@@ -1,0 +1,1603 @@
+[
+ {
+  "city": "昆明",
+  "name": "昆明花之城豪生国际大酒店",
+  "price": 480,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "亲子"
+  ],
+  "desc": "近机场，设施新，花卉主题设计",
+  "location": {
+   "lat": 25.085,
+   "lon": 102.925
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "昆明",
+  "name": "昆明翠湖宾馆",
+  "price": 420,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "市中心"
+  ],
+  "desc": "翠湖公园旁，观鸥赏景位置佳",
+  "location": {
+   "lat": 25.053,
+   "lon": 102.706
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "昆明",
+  "name": "昆明云安会都酒店",
+  "price": 320,
+  "rating": 4.4,
+  "tags": [
+   "舒适",
+   "会议"
+  ],
+  "desc": "滇池路沿线，性价比高",
+  "location": {
+   "lat": 24.968,
+   "lon": 102.668
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "昆明",
+  "name": "昆明青年旅舍（翠湖店）",
+  "price": 120,
+  "rating": 4.2,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "背包客聚集，氛围活跃",
+  "location": {
+   "lat": 25.052,
+   "lon": 102.71
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "大理洱海天域英迪格酒店",
+  "price": 1200,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "海景"
+  ],
+  "desc": "洱海边一线海景，无边泳池",
+  "location": {
+   "lat": 25.71,
+   "lon": 100.205
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "大理古城漫心府客栈",
+  "price": 380,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "客栈",
+   "古城"
+  ],
+  "desc": "白族院落改造，文艺静谧",
+  "location": {
+   "lat": 25.694,
+   "lon": 100.163
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "大理双廊海地生活客栈",
+  "price": 600,
+  "rating": 4.5,
+  "tags": [
+   "海景",
+   "客栈"
+  ],
+  "desc": "双廊镇海景房，发呆看海",
+  "location": {
+   "lat": 25.962,
+   "lon": 100.192
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "大理绿玉公园民宿",
+  "price": 180,
+  "rating": 4.3,
+  "tags": [
+   "经济",
+   "民宿"
+  ],
+  "desc": "古城南门附近，干净实惠",
+  "location": {
+   "lat": 25.688,
+   "lon": 100.166
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "丽江古城安隅酒店",
+  "price": 650,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "古城"
+  ],
+  "desc": "古城中心纳西庭院，私密安静",
+  "location": {
+   "lat": 26.872,
+   "lon": 100.233
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "丽江金茂璞修雪山酒店",
+  "price": 1500,
+  "rating": 4.9,
+  "tags": [
+   "豪华",
+   "雪山景观"
+  ],
+  "desc": "雪山脚下，推窗见玉龙",
+  "location": {
+   "lat": 27.1,
+   "lon": 100.18
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "丽江束河古镇兰庭客栈",
+  "price": 260,
+  "rating": 4.5,
+  "tags": [
+   "客栈",
+   "古镇"
+  ],
+  "desc": "束河古镇内，院落花开",
+  "location": {
+   "lat": 26.902,
+   "lon": 100.196
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "丽江老谢车马店国际青年旅舍",
+  "price": 80,
+  "rating": 4.1,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "古城北门，背包客之家",
+  "location": {
+   "lat": 26.87,
+   "lon": 100.232
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "成都博舍酒店",
+  "price": 1800,
+  "rating": 4.9,
+  "tags": [
+   "豪华",
+   "太古里"
+  ],
+  "desc": "太古里核心，设计师酒店",
+  "location": {
+   "lat": 30.653,
+   "lon": 104.083
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "成都明宇尚雅饭店",
+  "price": 420,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "市中心"
+  ],
+  "desc": "春熙路商圈，交通便利",
+  "location": {
+   "lat": 30.637,
+   "lon": 104.065
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "成都宽窄巷子蓉城客栈",
+  "price": 240,
+  "rating": 4.4,
+  "tags": [
+   "客栈",
+   "古街"
+  ],
+  "desc": "宽窄巷子旁，川西民居风",
+  "location": {
+   "lat": 30.664,
+   "lon": 104.054
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "成都背包十年青旅",
+  "price": 90,
+  "rating": 4.3,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "网红青旅，社交氛围好",
+  "location": {
+   "lat": 30.66,
+   "lon": 104.058
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "重庆来福士洲际酒店",
+  "price": 1600,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "江景"
+  ],
+  "desc": "朝天门来福士，两江交汇视野",
+  "location": {
+   "lat": 29.565,
+   "lon": 106.586
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "重庆解放碑威斯汀酒店",
+  "price": 800,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "市中心"
+  ],
+  "desc": "解放碑商圈，高空观景",
+  "location": {
+   "lat": 29.558,
+   "lon": 106.576
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "重庆磁器口江畔客栈",
+  "price": 220,
+  "rating": 4.4,
+  "tags": [
+   "客栈",
+   "古镇"
+  ],
+  "desc": "磁器口古镇，嘉陵江畔",
+  "location": {
+   "lat": 29.58,
+   "lon": 106.445
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "重庆青年旅舍（洪崖洞店）",
+  "price": 100,
+  "rating": 4.2,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "步行到洪崖洞，夜景观赏方便",
+  "location": {
+   "lat": 29.563,
+   "lon": 106.579
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "北京王府井文华东方酒店",
+  "price": 2500,
+  "rating": 4.9,
+  "tags": [
+   "豪华",
+   "王府井"
+  ],
+  "desc": "紫禁城景观房，顶奢之选",
+  "location": {
+   "lat": 39.913,
+   "lon": 116.41
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "北京前门建国饭店",
+  "price": 550,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "前门"
+  ],
+  "desc": "前门步行街旁，老字号酒店",
+  "location": {
+   "lat": 39.887,
+   "lon": 116.394
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "北京南锣鼓巷四合院客栈",
+  "price": 400,
+  "rating": 4.4,
+  "tags": [
+   "客栈",
+   "胡同"
+  ],
+  "desc": "四合院体验，胡同深处",
+  "location": {
+   "lat": 39.94,
+   "lon": 116.403
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "北京雍和宫青年旅舍",
+  "price": 120,
+  "rating": 4.0,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "东二环，交通便利",
+  "location": {
+   "lat": 39.947,
+   "lon": 116.417
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "上海和平饭店",
+  "price": 2200,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "外滩"
+  ],
+  "desc": "外滩百年传奇，装饰艺术经典",
+  "location": {
+   "lat": 31.241,
+   "lon": 121.49
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "上海外滩W酒店",
+  "price": 1900,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "江景"
+  ],
+  "desc": "北外滩，潮流设计",
+  "location": {
+   "lat": 31.244,
+   "lon": 121.496
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "上海豫园万丽酒店",
+  "price": 700,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "市中心"
+  ],
+  "desc": "豫园商圈，老城厢风情",
+  "location": {
+   "lat": 31.229,
+   "lon": 121.49
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "上海人民广场青年旅舍",
+  "price": 130,
+  "rating": 4.1,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "市中心，地铁直达",
+  "location": {
+   "lat": 31.232,
+   "lon": 121.473
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "杭州西子湖四季酒店",
+  "price": 3200,
+  "rating": 4.9,
+  "tags": [
+   "豪华",
+   "西湖"
+  ],
+  "desc": "西湖边江南园林式酒店",
+  "location": {
+   "lat": 30.242,
+   "lon": 120.137
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "杭州西湖国宾馆",
+  "price": 1500,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "西湖"
+  ],
+  "desc": "刘庄园林，湖景套房",
+  "location": {
+   "lat": 30.235,
+   "lon": 120.13
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "杭州运河祈利酒店",
+  "price": 450,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "运河"
+  ],
+  "desc": "大运河畔，工业风改造",
+  "location": {
+   "lat": 30.286,
+   "lon": 120.155
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "杭州西湖国际青旅",
+  "price": 100,
+  "rating": 4.2,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "近西湖，性价比高",
+  "location": {
+   "lat": 30.249,
+   "lon": 120.152
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "西安W酒店",
+  "price": 1300,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "曲江"
+  ],
+  "desc": "曲江池畔，时尚设计",
+  "location": {
+   "lat": 34.211,
+   "lon": 108.974
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "西安钟楼饭店",
+  "price": 380,
+  "rating": 4.4,
+  "tags": [
+   "舒适",
+   "钟楼"
+  ],
+  "desc": "钟楼商圈，老牌口碑",
+  "location": {
+   "lat": 34.261,
+   "lon": 108.943
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "西安回民街巷子民宿",
+  "price": 200,
+  "rating": 4.3,
+  "tags": [
+   "民宿",
+   "美食"
+  ],
+  "desc": "回民街深处，美食环绕",
+  "location": {
+   "lat": 34.265,
+   "lon": 108.94
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "西安城墙根青旅",
+  "price": 90,
+  "rating": 4.2,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "古城墙下，青年聚集",
+  "location": {
+   "lat": 34.259,
+   "lon": 108.942
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "三亚亚特兰蒂斯酒店",
+  "price": 2800,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "亲子"
+  ],
+  "desc": "水世界水族馆配套，亲子天堂",
+  "location": {
+   "lat": 18.282,
+   "lon": 109.731
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "三亚亚龙湾瑞吉酒店",
+  "price": 1800,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "海景"
+  ],
+  "desc": "亚龙湾一线海景，管家服务",
+  "location": {
+   "lat": 18.209,
+   "lon": 109.652
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "三亚大东海半山半岛酒店",
+  "price": 500,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "海景"
+  ],
+  "desc": "大东海畔，价格亲民",
+  "location": {
+   "lat": 18.213,
+   "lon": 109.518
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "三亚湾海景民宿",
+  "price": 260,
+  "rating": 4.3,
+  "tags": [
+   "民宿",
+   "海景"
+  ],
+  "desc": "三亚湾看日落，性价比之选",
+  "location": {
+   "lat": 18.286,
+   "lon": 109.443
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "厦门康莱德酒店",
+  "price": 1600,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "海景"
+  ],
+  "desc": "双子塔高层，俯瞰鼓浪屿",
+  "location": {
+   "lat": 24.437,
+   "lon": 118.081
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "厦门鼓浪屿林氏府公馆",
+  "price": 700,
+  "rating": 4.6,
+  "tags": [
+   "客栈",
+   "鼓浪屿"
+  ],
+  "desc": "百年别墅改建，民国风情",
+  "location": {
+   "lat": 24.443,
+   "lon": 118.07
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "厦门曾厝垵海景民宿",
+  "price": 300,
+  "rating": 4.4,
+  "tags": [
+   "民宿",
+   "海景"
+  ],
+  "desc": "文艺渔村，面朝大海",
+  "location": {
+   "lat": 24.436,
+   "lon": 118.113
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "厦门国际青年旅舍（鼓浪屿店）",
+  "price": 110,
+  "rating": 4.1,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "老别墅青旅，氛围好",
+  "location": {
+   "lat": 24.445,
+   "lon": 118.066
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "青岛海景花园大酒店",
+  "price": 900,
+  "rating": 4.6,
+  "tags": [
+   "豪华",
+   "海景"
+  ],
+  "desc": "八大关旁，欧式园林酒店",
+  "location": {
+   "lat": 36.058,
+   "lon": 120.391
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "青岛栈桥王子饭店",
+  "price": 420,
+  "rating": 4.4,
+  "tags": [
+   "舒适",
+   "海景"
+  ],
+  "desc": "栈桥海边，百年历史",
+  "location": {
+   "lat": 36.06,
+   "lon": 120.319
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "青岛奥帆中心海景民宿",
+  "price": 300,
+  "rating": 4.5,
+  "tags": [
+   "民宿",
+   "海景"
+  ],
+  "desc": "奥帆中心旁，帆影入窗",
+  "location": {
+   "lat": 36.062,
+   "lon": 120.392
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "青岛台东步行街青旅",
+  "price": 80,
+  "rating": 4.0,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "商圈夜市，热闹便捷",
+  "location": {
+   "lat": 36.077,
+   "lon": 120.359
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "广州花园酒店",
+  "price": 800,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "亲子"
+  ],
+  "desc": "环市路地标，瀑布餐厅与花园泳池",
+  "location": {
+   "lat": 23.139,
+   "lon": 113.296
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "广州白天鹅宾馆",
+  "price": 750,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "江景"
+  ],
+  "desc": "沙面岛旁，珠江白鹅潭一线江景",
+  "location": {
+   "lat": 23.108,
+   "lon": 113.236
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "广州东方宾馆",
+  "price": 500,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "市中心"
+  ],
+  "desc": "流花路老牌五星，地铁直达",
+  "location": {
+   "lat": 23.145,
+   "lon": 113.26
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "广州永庆坊故里民宿",
+  "price": 260,
+  "rating": 4.5,
+  "tags": [
+   "民宿",
+   "文艺"
+  ],
+  "desc": "荔湾西关骑楼内，广府烟火气",
+  "location": {
+   "lat": 23.115,
+   "lon": 113.236
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "深圳文华东方酒店",
+  "price": 1100,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "都市"
+  ],
+  "desc": "福田中心，云端奢华",
+  "location": {
+   "lat": 22.538,
+   "lon": 114.057
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "深圳大梅沙京基洲际度假酒店",
+  "price": 900,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "海景"
+  ],
+  "desc": "大梅沙海滨，私家沙滩",
+  "location": {
+   "lat": 22.594,
+   "lon": 114.303
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "深圳湾万怡酒店",
+  "price": 550,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "海景"
+  ],
+  "desc": "南山深圳湾，红树林海景",
+  "location": {
+   "lat": 22.517,
+   "lon": 113.938
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "深圳华侨城青年旅舍",
+  "price": 130,
+  "rating": 4.3,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "世界之窗片区，乐园环绕",
+  "location": {
+   "lat": 22.536,
+   "lon": 113.972
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "南京金陵饭店",
+  "price": 700,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "地标"
+  ],
+  "desc": "新街口旋宫，南京城市名片",
+  "location": {
+   "lat": 32.043,
+   "lon": 118.784
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "南京状元楼酒店",
+  "price": 480,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "秦淮"
+  ],
+  "desc": "夫子庙秦淮河畔，桨声灯影",
+  "location": {
+   "lat": 32.021,
+   "lon": 118.789
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "南京夫子庙亚朵酒店",
+  "price": 400,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "文艺"
+  ],
+  "desc": "老门东附近，出行便利",
+  "location": {
+   "lat": 32.022,
+   "lon": 118.791
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "南京夫子庙国际青年旅舍",
+  "price": 120,
+  "rating": 4.3,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "秦淮河边，背包客聚集",
+  "location": {
+   "lat": 32.021,
+   "lon": 118.787
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "苏州洲际酒店",
+  "price": 700,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "金鸡湖"
+  ],
+  "desc": "金鸡湖畔，湖景摩登",
+  "location": {
+   "lat": 31.315,
+   "lon": 120.7
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "苏州平江路书香府邸酒店",
+  "price": 450,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "园林"
+  ],
+  "desc": "平江路深处的苏式园林宅院",
+  "location": {
+   "lat": 31.321,
+   "lon": 120.633
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "苏州南园宾馆",
+  "price": 420,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "园林"
+  ],
+  "desc": "十全街园林式国宾馆",
+  "location": {
+   "lat": 31.297,
+   "lon": 120.628
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "苏州平江路悦游客栈",
+  "price": 200,
+  "rating": 4.4,
+  "tags": [
+   "民宿",
+   "古镇"
+  ],
+  "desc": "古巷客栈，枕河而眠",
+  "location": {
+   "lat": 31.321,
+   "lon": 120.631
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "武汉万达瑞华酒店",
+  "price": 900,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "江景"
+  ],
+  "desc": "东湖路，楚河汉街毗邻",
+  "location": {
+   "lat": 30.552,
+   "lon": 114.34
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "武汉马哥孛罗酒店",
+  "price": 500,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "江景"
+  ],
+  "desc": "汉口沿江大道，江滩夜景",
+  "location": {
+   "lat": 30.584,
+   "lon": 114.296
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "武汉汉口泛海喜来登酒店",
+  "price": 480,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "商务"
+  ],
+  "desc": "泛海CBD，交通枢纽便利",
+  "location": {
+   "lat": 30.602,
+   "lon": 114.264
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "武汉昙华林文艺民宿",
+  "price": 200,
+  "rating": 4.4,
+  "tags": [
+   "民宿",
+   "文艺"
+  ],
+  "desc": "昙华林老街，民国小楼",
+  "location": {
+   "lat": 30.547,
+   "lon": 114.308
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "长沙尼依格罗酒店",
+  "price": 900,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "地标"
+  ],
+  "desc": "国金中心高层，云端湘江景",
+  "location": {
+   "lat": 28.198,
+   "lon": 112.978
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "长沙运达喜来登酒店",
+  "price": 550,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "商务"
+  ],
+  "desc": "市中心，五一广场商圈",
+  "location": {
+   "lat": 28.208,
+   "lon": 112.988
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "长沙芙蓉国温德姆至尊豪廷大酒店",
+  "price": 480,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "市中心"
+  ],
+  "desc": "湘江畔，近橘子洲",
+  "location": {
+   "lat": 28.194,
+   "lon": 112.983
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "长沙太平街轻住民宿",
+  "price": 180,
+  "rating": 4.4,
+  "tags": [
+   "民宿",
+   "经济"
+  ],
+  "desc": "太平老街内，夜市楼下",
+  "location": {
+   "lat": 28.198,
+   "lon": 112.971
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "阳朔悦榕庄",
+  "price": 1600,
+  "rating": 4.9,
+  "tags": [
+   "豪华",
+   "山水"
+  ],
+  "desc": "遇龙河畔，漓江山水私汤",
+  "location": {
+   "lat": 24.757,
+   "lon": 110.417
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "桂林香格里拉大酒店",
+  "price": 700,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "漓江"
+  ],
+  "desc": "漓江之滨，园林式酒店",
+  "location": {
+   "lat": 25.283,
+   "lon": 110.302
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "阳朔墨兰山舍民宿",
+  "price": 450,
+  "rating": 4.7,
+  "tags": [
+   "民宿",
+   "山水"
+  ],
+  "desc": "十里画廊内，推窗见峰林",
+  "location": {
+   "lat": 24.752,
+   "lon": 110.424
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "桂林象山青年旅舍",
+  "price": 90,
+  "rating": 4.2,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "象鼻山旁，两江四湖步行可达",
+  "location": {
+   "lat": 25.261,
+   "lon": 110.298
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "张家界武陵源铂尔曼酒店",
+  "price": 700,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "景区"
+  ],
+  "desc": "武陵源标志门旁，峰林景观",
+  "location": {
+   "lat": 29.348,
+   "lon": 110.55
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "张家界华天大酒店",
+  "price": 380,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "市中心"
+  ],
+  "desc": "市区天门山索道站附近",
+  "location": {
+   "lat": 29.126,
+   "lon": 110.479
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "武陵源溪布街客栈",
+  "price": 280,
+  "rating": 4.5,
+  "tags": [
+   "客栈",
+   "古镇"
+  ],
+  "desc": "溪布街风风情街，土家风情",
+  "location": {
+   "lat": 29.345,
+   "lon": 110.556
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "张家界背包客青年旅舍",
+  "price": 70,
+  "rating": 4.2,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "市中心，拼团出行方便",
+  "location": {
+   "lat": 29.124,
+   "lon": 110.481
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "大连君悦酒店",
+  "price": 800,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "海景"
+  ],
+  "desc": "星海广场旁，一线海景",
+  "location": {
+   "lat": 38.879,
+   "lon": 121.588
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "大连香格里拉大酒店",
+  "price": 650,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "都市"
+  ],
+  "desc": "人民路商圈，老牌五星",
+  "location": {
+   "lat": 38.922,
+   "lon": 121.643
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "大连金石滩希尔顿度假酒店",
+  "price": 700,
+  "rating": 4.7,
+  "tags": [
+   "度假",
+   "海景"
+  ],
+  "desc": "金石滩黄金海岸，亲子泳池",
+  "location": {
+   "lat": 39.078,
+   "lon": 122.017
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "大连星海湾民宿",
+  "price": 250,
+  "rating": 4.4,
+  "tags": [
+   "民宿",
+   "海景"
+  ],
+  "desc": "星海广场周边，看海方便",
+  "location": {
+   "lat": 38.883,
+   "lon": 121.586
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "哈尔滨富力丽思卡尔顿酒店",
+  "price": 900,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "都市"
+  ],
+  "desc": "群力新区，江景奢华",
+  "location": {
+   "lat": 45.764,
+   "lon": 126.566
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "哈尔滨马迭尔宾馆",
+  "price": 400,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "百年老店"
+  ],
+  "desc": "中央大街1906年老字号",
+  "location": {
+   "lat": 45.773,
+   "lon": 126.615
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "哈尔滨中央大街智选假日酒店",
+  "price": 300,
+  "rating": 4.5,
+  "tags": [
+   "舒适",
+   "经济连锁"
+  ],
+  "desc": "中央大街侧，步行看索菲亚",
+  "location": {
+   "lat": 45.772,
+   "lon": 126.614
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "哈尔滨麦田国际青年旅舍",
+  "price": 80,
+  "rating": 4.3,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "道里区，冰雪大世界班车",
+  "location": {
+   "lat": 45.775,
+   "lon": 126.62
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "拉萨瑞吉度假酒店",
+  "price": 1100,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "度假"
+  ],
+  "desc": "藏式庭院度假村，布宫景致",
+  "location": {
+   "lat": 29.652,
+   "lon": 91.112
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "拉萨香格里拉大酒店",
+  "price": 800,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "供氧"
+  ],
+  "desc": "布达拉宫远景，全屋供氧",
+  "location": {
+   "lat": 29.66,
+   "lon": 91.109
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "拉萨八廓街藏式精品民宿",
+  "price": 350,
+  "rating": 4.6,
+  "tags": [
+   "民宿",
+   "藏式"
+  ],
+  "desc": "古城藏式院落，转经即达",
+  "location": {
+   "lat": 29.65,
+   "lon": 91.131
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "拉萨平措康桑青年旅舍",
+  "price": 90,
+  "rating": 4.4,
+  "tags": [
+   "经济",
+   "青旅"
+  ],
+  "desc": "背包客之家，高反互助氛围",
+  "location": {
+   "lat": 29.655,
+   "lon": 91.121
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "西双版纳洲际度假酒店",
+  "price": 900,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "雨林"
+  ],
+  "desc": "雨林园林度假村，泼水广场",
+  "location": {
+   "lat": 22.02,
+   "lon": 100.78
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "西双版纳安纳塔度假酒店",
+  "price": 800,
+  "rating": 4.8,
+  "tags": [
+   "豪华",
+   "度假"
+  ],
+  "desc": "傣式宫殿建筑，澜沧江畔",
+  "location": {
+   "lat": 22.0,
+   "lon": 100.79
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "告庄湄公河景兰大酒店",
+  "price": 450,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "夜市"
+  ],
+  "desc": "告庄核心，星光夜市楼上",
+  "location": {
+   "lat": 22.007,
+   "lon": 100.797
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "版纳告庄傣楼民宿",
+  "price": 200,
+  "rating": 4.5,
+  "tags": [
+   "民宿",
+   "傣式"
+  ],
+  "desc": "傣家竹楼改造，六国水上市场旁",
+  "location": {
+   "lat": 22.008,
+   "lon": 100.795
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "洛阳东山宾馆",
+  "price": 550,
+  "rating": 4.7,
+  "tags": [
+   "豪华",
+   "龙门"
+  ],
+  "desc": "龙门石窟旁，山水园林",
+  "location": {
+   "lat": 34.561,
+   "lon": 112.478
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "洛阳华阳广场国际大饭店",
+  "price": 420,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "市中心"
+  ],
+  "desc": "涧西区，牡丹广场商圈",
+  "location": {
+   "lat": 34.669,
+   "lon": 112.437
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "洛阳克丽司汀酒店",
+  "price": 380,
+  "rating": 4.6,
+  "tags": [
+   "舒适",
+   "设计"
+  ],
+  "desc": "应天门附近，设计感强",
+  "location": {
+   "lat": 34.661,
+   "lon": 112.447
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "洛阳老城十字街民宿",
+  "price": 150,
+  "rating": 4.4,
+  "tags": [
+   "民宿",
+   "经济"
+  ],
+  "desc": "丽景门内，夜市烟火",
+  "location": {
+   "lat": 34.683,
+   "lon": 112.476
+  },
+  "loc_source": "approx"
+ }
+]

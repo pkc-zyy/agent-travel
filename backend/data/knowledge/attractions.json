@@ -1,0 +1,2403 @@
+[
+ {
+  "city": "昆明",
+  "name": "石林风景区",
+  "desc": "世界自然遗产，喀斯特地貌奇观，形态各异的石峰如林而立",
+  "price": 130,
+  "duration": "半天",
+  "tags": [
+   "自然风光",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 24.815,
+   "lon": 103.302
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "昆明",
+  "name": "滇池海埂大坝",
+  "desc": "高原明珠滇池，冬季可观红嘴鸥，湖光山色视野开阔",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "自然风光",
+   "观鸟"
+  ],
+  "location": {
+   "lat": 24.966,
+   "lon": 102.646
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "昆明",
+  "name": "翠湖公园",
+  "desc": "市中心湖景公园，冬日海鸥云集，周边历史文化遗迹环绕",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "休闲",
+   "公园"
+  ],
+  "location": {
+   "lat": 25.051,
+   "lon": 102.708
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "昆明",
+  "name": "云南民族村",
+  "desc": "浓缩云南25个少数民族风情，歌舞表演与民俗体验丰富",
+  "price": 90,
+  "duration": "半天",
+  "tags": [
+   "民族文化",
+   "亲子"
+  ],
+  "location": {
+   "lat": 24.966,
+   "lon": 102.657
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "昆明",
+  "name": "西山龙门",
+  "desc": "滇池畔西山胜景，登龙门俯瞰五百里滇池",
+  "price": 40,
+  "duration": "3小时",
+  "tags": [
+   "自然风光",
+   "登山"
+  ],
+  "location": {
+   "lat": 24.957,
+   "lon": 102.633
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "昆明",
+  "name": "官渡古镇",
+  "desc": "千年古镇，金刚塔等古迹云集，小吃街烟火气浓",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "古镇",
+   "美食"
+  ],
+  "location": {
+   "lat": 24.948,
+   "lon": 102.768
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "洱海环湖骑行",
+  "desc": "环洱海骑行约120公里，海西田园、海东公路风光绝美",
+  "price": 50,
+  "duration": "半天-1天",
+  "tags": [
+   "骑行",
+   "自然风光"
+  ],
+  "location": {
+   "lat": 25.706,
+   "lon": 100.21
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "大理古城",
+  "desc": "南诏国故都，白族建筑与洋人街文艺气息交融",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "古镇",
+   "文艺"
+  ],
+  "location": {
+   "lat": 25.693,
+   "lon": 100.164
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "崇圣寺三塔",
+  "desc": "大理地标，千年三塔倒影于湖面，佛都圣地",
+  "price": 75,
+  "duration": "2-3小时",
+  "tags": [
+   "人文",
+   "古迹"
+  ],
+  "location": {
+   "lat": 25.712,
+   "lon": 100.152
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "苍山",
+  "desc": "十九峰十八溪，索道登顶俯瞰洱海全景，洗马潭高山杜鹃",
+  "price": 120,
+  "duration": "半天",
+  "tags": [
+   "登山",
+   "自然风光"
+  ],
+  "location": {
+   "lat": 25.69,
+   "lon": 100.12
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "喜洲古镇",
+  "desc": "白族民居博物馆，稻田与喜洲粑粑是金字招牌",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "古镇",
+   "田园"
+  ],
+  "location": {
+   "lat": 25.855,
+   "lon": 100.11
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大理",
+  "name": "双廊古镇",
+  "desc": "洱海东岸艺术小镇，杨丽萍太阳宫所在地，海景绝佳",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "古镇",
+   "海景"
+  ],
+  "location": {
+   "lat": 25.96,
+   "lon": 100.19
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "丽江古城",
+  "desc": "世界文化遗产，四方街流水人家，夜生活与酒吧文化热闹",
+  "price": 0,
+  "duration": "1天",
+  "tags": [
+   "古镇",
+   "夜景"
+  ],
+  "location": {
+   "lat": 26.871,
+   "lon": 100.235
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "玉龙雪山",
+  "desc": "纳西神山，冰川公园海拔4680米，蓝月谷水色湛蓝",
+  "price": 140,
+  "duration": "1天",
+  "tags": [
+   "雪山",
+   "自然风光"
+  ],
+  "location": {
+   "lat": 27.116,
+   "lon": 100.17
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "蓝月谷",
+  "desc": "玉龙雪山脚下，湖水因矿物呈现梦幻蓝色",
+  "price": 20,
+  "duration": "2小时",
+  "tags": [
+   "自然风光",
+   "摄影"
+  ],
+  "location": {
+   "lat": 27.096,
+   "lon": 100.19
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "束河古镇",
+  "desc": "茶马古道重镇，比大研古城更安静，青龙桥古韵犹存",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "古镇",
+   "休闲"
+  ],
+  "location": {
+   "lat": 26.901,
+   "lon": 100.197
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "拉市海",
+  "desc": "高原湿地湖泊，骑马走茶马古道，观鸟胜地",
+  "price": 80,
+  "duration": "半天",
+  "tags": [
+   "湿地",
+   "骑马"
+  ],
+  "location": {
+   "lat": 26.83,
+   "lon": 100.12
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "丽江",
+  "name": "泸沽湖",
+  "desc": "东方女儿国，摩梭风情，湖光山色如梦似幻",
+  "price": 100,
+  "duration": "1-2天",
+  "tags": [
+   "湖泊",
+   "民族文化"
+  ],
+  "location": {
+   "lat": 27.75,
+   "lon": 100.78
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "大熊猫繁育研究基地",
+  "desc": "近距离围观滚滚大熊猫，幼年熊猫最活泼",
+  "price": 55,
+  "duration": "半天",
+  "tags": [
+   "熊猫",
+   "亲子"
+  ],
+  "location": {
+   "lat": 30.733,
+   "lon": 104.147
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "宽窄巷子",
+  "desc": "清代古街改造的成都名片，宽巷窄巷井巷各有风情",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "古街",
+   "美食"
+  ],
+  "location": {
+   "lat": 30.663,
+   "lon": 104.053
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "都江堰",
+  "desc": "世界文化遗产，两千年水利工程至今泽被天府",
+  "price": 80,
+  "duration": "半天",
+  "tags": [
+   "人文",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 31.005,
+   "lon": 103.617
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "青城山",
+  "desc": "道教名山，青城天下幽，前山道观林立",
+  "price": 80,
+  "duration": "半天-1天",
+  "tags": [
+   "道教",
+   "登山"
+  ],
+  "location": {
+   "lat": 30.9,
+   "lon": 103.57
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "武侯祠",
+  "desc": "三国文化圣地，刘备诸葛亮君臣合祀祠庙",
+  "price": 50,
+  "duration": "2-3小时",
+  "tags": [
+   "人文",
+   "三国"
+  ],
+  "location": {
+   "lat": 30.644,
+   "lon": 104.046
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "成都",
+  "name": "锦里古街",
+  "desc": "西蜀第一街，戏台茶楼灯笼，晚上格外热闹",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "古街",
+   "夜景"
+  ],
+  "location": {
+   "lat": 30.645,
+   "lon": 104.046
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "洪崖洞",
+  "desc": "依山而建的吊脚楼群，夜景如《千与千寻》汤屋",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "夜景",
+   "网红打卡"
+  ],
+  "location": {
+   "lat": 29.562,
+   "lon": 106.578
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "解放碑",
+  "desc": "重庆地标商圈，抗战胜利纪功碑，购物美食聚集地",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "都市",
+   "购物"
+  ],
+  "location": {
+   "lat": 29.557,
+   "lon": 106.577
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "磁器口古镇",
+  "desc": "千年古镇，石板路与陈麻花、毛血旺香气交织",
+  "price": 0,
+  "duration": "3小时",
+  "tags": [
+   "古镇",
+   "美食"
+  ],
+  "location": {
+   "lat": 29.578,
+   "lon": 106.443
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "长江索道",
+  "desc": "空中巴士横跨长江，俯瞰山城两岸风光",
+  "price": 30,
+  "duration": "1小时",
+  "tags": [
+   "体验",
+   "交通"
+  ],
+  "location": {
+   "lat": 29.556,
+   "lon": 106.584
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "李子坝轻轨站",
+  "desc": "轻轨穿楼而过，魔幻8D城市的标志性景观",
+  "price": 2,
+  "duration": "1小时",
+  "tags": [
+   "网红打卡",
+   "交通"
+  ],
+  "location": {
+   "lat": 29.564,
+   "lon": 106.539
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "重庆",
+  "name": "武隆天生三桥",
+  "desc": "世界自然遗产，天龙桥等天生桥群气势磅礴，电影取景地",
+  "price": 135,
+  "duration": "1天",
+  "tags": [
+   "自然风光",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 29.36,
+   "lon": 107.76
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "故宫博物院",
+  "desc": "世界最大宫殿建筑群，紫禁城600年历史，需提前预约",
+  "price": 60,
+  "duration": "半天-1天",
+  "tags": [
+   "历史人文",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 39.916,
+   "lon": 116.397
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "八达岭长城",
+  "desc": "万里长城精华段，不到长城非好汉",
+  "price": 40,
+  "duration": "半天",
+  "tags": [
+   "古迹",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 40.36,
+   "lon": 116.024
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "颐和园",
+  "desc": "皇家园林典范，昆明湖与万寿山山水相映",
+  "price": 30,
+  "duration": "半天",
+  "tags": [
+   "园林",
+   "人文"
+  ],
+  "location": {
+   "lat": 39.999,
+   "lon": 116.275
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "天坛公园",
+  "desc": "明清帝王祭天之所，祈年殿是北京地标",
+  "price": 15,
+  "duration": "2-3小时",
+  "tags": [
+   "人文",
+   "古迹"
+  ],
+  "location": {
+   "lat": 39.882,
+   "lon": 116.406
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "什刹海",
+  "desc": "老北京胡同与水面交融，后海酒吧街夜景迷人",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "胡同",
+   "夜景"
+  ],
+  "location": {
+   "lat": 39.941,
+   "lon": 116.384
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "北京",
+  "name": "国家博物馆",
+  "desc": "中华文明珍宝殿堂，司母戊鼎等国宝云集，免费需预约",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "博物馆",
+   "亲子"
+  ],
+  "location": {
+   "lat": 39.905,
+   "lon": 116.397
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "外滩",
+  "desc": "万国建筑博览群与陆家嘴天际线隔江相望，夜景璀璨",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "夜景",
+   "建筑"
+  ],
+  "location": {
+   "lat": 31.24,
+   "lon": 121.49
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "东方明珠",
+  "desc": "陆家嘴标志塔，259米悬空观光廊俯瞰浦江",
+  "price": 199,
+  "duration": "2小时",
+  "tags": [
+   "都市",
+   "观景"
+  ],
+  "location": {
+   "lat": 31.24,
+   "lon": 121.5
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "上海迪士尼乐园",
+  "desc": "中国大陆首座迪士尼，奇幻童话城堡与烟花秀",
+  "price": 475,
+  "duration": "1天",
+  "tags": [
+   "亲子",
+   "乐园"
+  ],
+  "location": {
+   "lat": 31.144,
+   "lon": 121.657
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "豫园",
+  "desc": "明代江南古典园林，豫园商城九曲桥人气火爆",
+  "price": 40,
+  "duration": "2-3小时",
+  "tags": [
+   "园林",
+   "人文"
+  ],
+  "location": {
+   "lat": 31.227,
+   "lon": 121.492
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "武康路",
+  "desc": "梧桐树下的网红马路，老洋房与咖啡馆文艺范十足",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "文艺",
+   "街拍"
+  ],
+  "location": {
+   "lat": 31.208,
+   "lon": 121.437
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "上海",
+  "name": "上海博物馆",
+  "desc": "青铜器与书画馆藏顶级，免费预约参观",
+  "price": 0,
+  "duration": "3小时",
+  "tags": [
+   "博物馆",
+   "人文"
+  ],
+  "location": {
+   "lat": 31.229,
+   "lon": 121.475
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "西湖",
+  "desc": "十景如画，苏堤春晓、断桥残雪，四季皆景",
+  "price": 0,
+  "duration": "1天",
+  "tags": [
+   "自然风光",
+   "人文"
+  ],
+  "location": {
+   "lat": 30.246,
+   "lon": 120.148
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "灵隐寺",
+  "desc": "千年古刹，飞来峰造像精美，香火鼎盛",
+  "price": 45,
+  "duration": "半天",
+  "tags": [
+   "寺庙",
+   "人文"
+  ],
+  "location": {
+   "lat": 30.247,
+   "lon": 120.1
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "西溪湿地",
+  "desc": "城市湿地公园，摇橹船穿行芦苇荡，野趣盎然",
+  "price": 80,
+  "duration": "半天",
+  "tags": [
+   "湿地",
+   "自然"
+  ],
+  "location": {
+   "lat": 30.273,
+   "lon": 120.062
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "千岛湖",
+  "desc": "天下第一秀水，1078座岛屿星罗棋布",
+  "price": 130,
+  "duration": "1天",
+  "tags": [
+   "湖泊",
+   "度假"
+  ],
+  "location": {
+   "lat": 29.604,
+   "lon": 119.036
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "宋城",
+  "desc": "仿宋主题乐园，千古情演出震撼人心",
+  "price": 320,
+  "duration": "半天-1天",
+  "tags": [
+   "演艺",
+   "亲子"
+  ],
+  "location": {
+   "lat": 30.192,
+   "lon": 120.114
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "杭州",
+  "name": "龙井村",
+  "desc": "狮峰山下茶园连绵，品一杯明前龙井，茶乡慢生活",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "茶文化",
+   "田园"
+  ],
+  "location": {
+   "lat": 30.223,
+   "lon": 120.114
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "秦始皇兵马俑博物馆",
+  "desc": "世界第八大奇迹，千人千面军阵震撼世界",
+  "price": 120,
+  "duration": "半天",
+  "tags": [
+   "世界遗产",
+   "历史"
+  ],
+  "location": {
+   "lat": 34.385,
+   "lon": 109.278
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "西安古城墙",
+  "desc": "中国现存最完整古城墙，骑行一圈约14公里",
+  "price": 54,
+  "duration": "2-3小时",
+  "tags": [
+   "古迹",
+   "骑行"
+  ],
+  "location": {
+   "lat": 34.276,
+   "lon": 108.948
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "大唐不夜城",
+  "desc": "盛唐主题步行街，不倒翁小姐姐与灯光秀，夜晚如梦",
+  "price": 0,
+  "duration": "3小时",
+  "tags": [
+   "夜景",
+   "网红打卡"
+  ],
+  "location": {
+   "lat": 34.218,
+   "lon": 108.964
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "大雁塔",
+  "desc": "玄奘译经之所，慈恩寺内古塔巍峨",
+  "price": 40,
+  "duration": "2小时",
+  "tags": [
+   "古迹",
+   "人文"
+  ],
+  "location": {
+   "lat": 34.224,
+   "lon": 108.964
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "回民街",
+  "desc": "清真美食街，肉夹馍泡馍凉皮一站式吃遍西安",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "美食",
+   "夜市"
+  ],
+  "location": {
+   "lat": 34.265,
+   "lon": 108.939
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西安",
+  "name": "陕西历史博物馆",
+  "desc": "给我一天还你万年，馆藏文物170万件",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "博物馆",
+   "历史"
+  ],
+  "location": {
+   "lat": 34.223,
+   "lon": 108.954
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "亚龙湾",
+  "desc": "天下第一湾，沙白浪缓，是三亚最佳海滨浴场",
+  "price": 0,
+  "duration": "半天-1天",
+  "tags": [
+   "海滩",
+   "度假"
+  ],
+  "location": {
+   "lat": 18.207,
+   "lon": 109.643
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "蜈支洲岛",
+  "desc": "情人岛，海水能见度极高，潜水圣地",
+  "price": 144,
+  "duration": "1天",
+  "tags": [
+   "海岛",
+   "潜水"
+  ],
+  "location": {
+   "lat": 18.314,
+   "lon": 109.764
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "天涯海角",
+  "desc": "南天一柱与天涯石，寓意爱情永恒",
+  "price": 68,
+  "duration": "半天",
+  "tags": [
+   "海滨",
+   "情侣"
+  ],
+  "location": {
+   "lat": 18.297,
+   "lon": 109.345
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "南山文化旅游区",
+  "desc": "108米海上观音圣像，佛教文化主题园区",
+  "price": 108,
+  "duration": "半天",
+  "tags": [
+   "佛教",
+   "文化"
+  ],
+  "location": {
+   "lat": 18.291,
+   "lon": 109.2
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "大东海",
+  "desc": "市区旁的免费海滩，水上项目丰富",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "海滩",
+   "水上项目"
+  ],
+  "location": {
+   "lat": 18.215,
+   "lon": 109.511
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "三亚",
+  "name": "亚特兰蒂斯水世界",
+  "desc": "失落的空间水族馆与水上乐园，亲子必去",
+  "price": 358,
+  "duration": "1天",
+  "tags": [
+   "亲子",
+   "乐园"
+  ],
+  "location": {
+   "lat": 18.28,
+   "lon": 109.731
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "鼓浪屿",
+  "desc": "世界遗产海岛，万国建筑与琴声，日光岩登顶看全岛",
+  "price": 50,
+  "duration": "1天",
+  "tags": [
+   "海岛",
+   "文艺"
+  ],
+  "location": {
+   "lat": 24.444,
+   "lon": 118.067
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "厦门大学",
+  "desc": "中国最美大学，芙蓉隧道涂鸦与情人谷",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "校园",
+   "文艺"
+  ],
+  "location": {
+   "lat": 24.435,
+   "lon": 118.09
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "环岛路",
+  "desc": "沿海观光大道，骑行看海与白城沙滩日落",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "骑行",
+   "海景"
+  ],
+  "location": {
+   "lat": 24.44,
+   "lon": 118.13
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "南普陀寺",
+  "desc": "闽南名刹，与厦大相邻，素饼与素斋有名",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "寺庙",
+   "人文"
+  ],
+  "location": {
+   "lat": 24.44,
+   "lon": 118.091
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "曾厝垵",
+  "desc": "文艺渔村，民宿小吃街巷，夜晚最热闹",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "文艺",
+   "美食"
+  ],
+  "location": {
+   "lat": 24.437,
+   "lon": 118.112
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "厦门",
+  "name": "厦门植物园",
+  "desc": "雨林世界与多肉植物区，网红拍照圣地",
+  "price": 30,
+  "duration": "3小时",
+  "tags": [
+   "植物园",
+   "摄影"
+  ],
+  "location": {
+   "lat": 24.444,
+   "lon": 118.099
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "栈桥",
+  "desc": "青岛地标，伸入海中的回澜阁，海鸥环绕",
+  "price": 0,
+  "duration": "1-2小时",
+  "tags": [
+   "海滨",
+   "地标"
+  ],
+  "location": {
+   "lat": 36.059,
+   "lon": 120.318
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "崂山",
+  "desc": "海上第一名山，道教宫观与山海奇观",
+  "price": 90,
+  "duration": "1天",
+  "tags": [
+   "登山",
+   "道教"
+  ],
+  "location": {
+   "lat": 36.157,
+   "lon": 120.624
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "八大关",
+  "desc": "万国建筑博览馆，红瓦绿树，秋季银杏最美",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "建筑",
+   "文艺"
+  ],
+  "location": {
+   "lat": 36.053,
+   "lon": 120.352
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "五四广场",
+  "desc": "五月的风雕塑，奥帆中心帆影点点",
+  "price": 0,
+  "duration": "1-2小时",
+  "tags": [
+   "都市",
+   "海景"
+  ],
+  "location": {
+   "lat": 36.062,
+   "lon": 120.381
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "青岛啤酒博物馆",
+  "desc": "百年青啤工厂原址，畅饮原浆鲜啤",
+  "price": 60,
+  "duration": "2小时",
+  "tags": [
+   "啤酒",
+   "博物馆"
+  ],
+  "location": {
+   "lat": 36.073,
+   "lon": 120.354
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "青岛",
+  "name": "金沙滩",
+  "desc": "亚洲最大沙滩之一，沙质金黄细腻",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "海滩",
+   "亲子"
+  ],
+  "location": {
+   "lat": 35.966,
+   "lon": 120.167
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "广州塔（小蛮腰）",
+  "desc": "600米中国第一高塔，塔顶摩天轮与珠江夜景璀璨",
+  "price": 150,
+  "duration": "半天",
+  "tags": [
+   "地标",
+   "夜景"
+  ],
+  "location": {
+   "lat": 23.106,
+   "lon": 113.324
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "陈家祠",
+  "desc": "岭南建筑艺术明珠，木雕砖雕灰塑集大成",
+  "price": 10,
+  "duration": "2小时",
+  "tags": [
+   "人文",
+   "古迹"
+  ],
+  "location": {
+   "lat": 23.126,
+   "lon": 113.245
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "沙面岛",
+  "desc": "珠江畔欧陆建筑群，梧桐小街与咖啡馆",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "文艺",
+   "建筑"
+  ],
+  "location": {
+   "lat": 23.107,
+   "lon": 113.237
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "长隆野生动物世界",
+  "desc": "亚洲最大野生动物园，熊猫三胞胎与空中缆车",
+  "price": 300,
+  "duration": "1天",
+  "tags": [
+   "亲子",
+   "动物园"
+  ],
+  "location": {
+   "lat": 22.998,
+   "lon": 113.33
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "珠江夜游",
+  "desc": "乘船夜游珠江，两岸灯光与小蛮腰倒影",
+  "price": 100,
+  "duration": "2小时",
+  "tags": [
+   "夜景",
+   "夜游"
+  ],
+  "location": {
+   "lat": 23.11,
+   "lon": 113.265
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "广州",
+  "name": "越秀公园",
+  "desc": "五羊石像所在，广州城徽与明代古城墙",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "公园",
+   "休闲"
+  ],
+  "location": {
+   "lat": 23.147,
+   "lon": 113.267
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "世界之窗",
+  "desc": "世界名胜微缩主题公园，埃菲尔铁塔夜场烟花",
+  "price": 220,
+  "duration": "1天",
+  "tags": [
+   "乐园",
+   "人文"
+  ],
+  "location": {
+   "lat": 22.535,
+   "lon": 113.974
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "深圳湾公园",
+  "desc": "滨海休闲带，骑行观海鸥与红树林日落",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "海滨",
+   "休闲"
+  ],
+  "location": {
+   "lat": 22.517,
+   "lon": 113.943
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "大梅沙海滨公园",
+  "desc": "市区免费海滩，愿望塔与沙滩音乐季",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "海滩",
+   "亲子"
+  ],
+  "location": {
+   "lat": 22.596,
+   "lon": 114.307
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "东部华侨城",
+  "desc": "山海主题度假区，茶溪谷与云海缆车",
+  "price": 200,
+  "duration": "1天",
+  "tags": [
+   "乐园",
+   "度假"
+  ],
+  "location": {
+   "lat": 22.634,
+   "lon": 114.276
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "深圳野生动物园",
+  "desc": "放养式动物园，猛兽谷与动物表演",
+  "price": 240,
+  "duration": "半天",
+  "tags": [
+   "亲子",
+   "动物园"
+  ],
+  "location": {
+   "lat": 22.592,
+   "lon": 113.968
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "深圳",
+  "name": "甘坑古镇",
+  "desc": "客家围屋古镇，凉帽作坊与夜景灯光",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "古镇",
+   "文艺"
+  ],
+  "location": {
+   "lat": 22.626,
+   "lon": 114.12
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "中山陵",
+  "desc": "孙中山先生陵寝，392级台阶紫金山苍翠环抱，需预约",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "人文",
+   "古迹"
+  ],
+  "location": {
+   "lat": 32.058,
+   "lon": 118.845
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "夫子庙-秦淮风光带",
+  "desc": "桨声灯影秦淮河，江南贡院与乌衣巷",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "历史",
+   "夜景",
+   "美食"
+  ],
+  "location": {
+   "lat": 32.021,
+   "lon": 118.788
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "明孝陵",
+  "desc": "明太祖陵寝，石象路神道秋色如油画",
+  "price": 70,
+  "duration": "半天",
+  "tags": [
+   "古迹",
+   "赏花"
+  ],
+  "location": {
+   "lat": 32.055,
+   "lon": 118.834
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "南京博物院",
+  "desc": "中国三大博物馆之一，民国馆沉浸式穿越",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "博物馆",
+   "历史"
+  ],
+  "location": {
+   "lat": 32.05,
+   "lon": 118.829
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "总统府",
+  "desc": "中国近代史遗址博物馆，明清衙署与民国办公区",
+  "price": 40,
+  "duration": "2-3小时",
+  "tags": [
+   "历史",
+   "人文"
+  ],
+  "location": {
+   "lat": 32.046,
+   "lon": 118.795
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "南京",
+  "name": "栖霞山",
+  "desc": "春牛首秋栖霞，红枫与千年栖霞寺",
+  "price": 40,
+  "duration": "半天",
+  "tags": [
+   "赏枫",
+   "登山"
+  ],
+  "location": {
+   "lat": 32.147,
+   "lon": 118.942
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "拙政园",
+  "desc": "中国园林之首，借景北寺塔，四季皆有画意",
+  "price": 80,
+  "duration": "3小时",
+  "tags": [
+   "园林",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 31.325,
+   "lon": 120.63
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "平江路历史街区",
+  "desc": "小桥流水人家，评弹声里的宋代古巷",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "文艺",
+   "古街"
+  ],
+  "location": {
+   "lat": 31.32,
+   "lon": 120.632
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "虎丘",
+  "desc": "吴中第一名胜，云岩寺塔比萨斜塔东方版",
+  "price": 60,
+  "duration": "半天",
+  "tags": [
+   "古迹",
+   "园林"
+  ],
+  "location": {
+   "lat": 31.324,
+   "lon": 120.573
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "周庄古镇",
+  "desc": "中国第一水乡，双桥与沈厅摇橹船",
+  "price": 100,
+  "duration": "1天",
+  "tags": [
+   "古镇",
+   "水乡"
+  ],
+  "location": {
+   "lat": 31.113,
+   "lon": 120.844
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "金鸡湖景区",
+  "desc": "园区摩天楼与湖畔月光码头，夜景摩登",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "都市",
+   "夜景"
+  ],
+  "location": {
+   "lat": 31.317,
+   "lon": 120.708
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "苏州",
+  "name": "留园",
+  "desc": "中国四大名园，冠云峰太湖石奇绝",
+  "price": 45,
+  "duration": "2-3小时",
+  "tags": [
+   "园林",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 31.318,
+   "lon": 120.596
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "黄鹤楼",
+  "desc": "天下江山第一楼，登楼远眺长江与武汉三镇",
+  "price": 70,
+  "duration": "2-3小时",
+  "tags": [
+   "古迹",
+   "地标"
+  ],
+  "location": {
+   "lat": 30.545,
+   "lon": 114.301
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "东湖生态旅游风景区",
+  "desc": "城中湖面积全国之最，磨山樱园与绿道骑行",
+  "price": 0,
+  "duration": "半天-1天",
+  "tags": [
+   "自然风光",
+   "骑行"
+  ],
+  "location": {
+   "lat": 30.551,
+   "lon": 114.422
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "武汉大学",
+  "desc": "最美大学之一，樱花大道三月如云似雪，需预约",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "赏花",
+   "人文"
+  ],
+  "location": {
+   "lat": 30.538,
+   "lon": 114.366
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "湖北省博物馆",
+  "desc": "曾侯乙编钟与越王勾践剑，镇馆之宝云集",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "博物馆",
+   "历史"
+  ],
+  "location": {
+   "lat": 30.561,
+   "lon": 114.37
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "户部巷",
+  "desc": "汉味小吃第一巷，热干面豆皮糊汤粉",
+  "price": 0,
+  "duration": "2小时",
+  "tags": [
+   "美食",
+   "老街"
+  ],
+  "location": {
+   "lat": 30.543,
+   "lon": 114.304
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "武汉",
+  "name": "江汉路步行街·汉口江滩",
+  "desc": "百年商业老街与两江四岸夜景灯光秀",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "夜景",
+   "休闲"
+  ],
+  "location": {
+   "lat": 30.58,
+   "lon": 114.29
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "橘子洲景区",
+  "desc": "湘江之心，青年毛泽东雕像与焰火晚会",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "人文",
+   "江景"
+  ],
+  "location": {
+   "lat": 28.19,
+   "lon": 112.962
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "岳麓山·岳麓书院",
+  "desc": "千年学府惟楚有材，爱晚亭枫叶正红",
+  "price": 50,
+  "duration": "半天",
+  "tags": [
+   "登山",
+   "人文"
+  ],
+  "location": {
+   "lat": 28.187,
+   "lon": 112.934
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "湖南博物院",
+  "desc": "马王堆汉墓辛追夫人与素纱襌衣",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "博物馆",
+   "历史"
+  ],
+  "location": {
+   "lat": 28.218,
+   "lon": 112.985
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "太平老街",
+  "desc": "千年古街，臭豆腐与茶颜悦色的烟火气",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "美食",
+   "老街"
+  ],
+  "location": {
+   "lat": 28.198,
+   "lon": 112.972
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "天心阁",
+  "desc": "古城墙上江南名楼，长沙城市原点",
+  "price": 32,
+  "duration": "2小时",
+  "tags": [
+   "古迹",
+   "公园"
+  ],
+  "location": {
+   "lat": 28.189,
+   "lon": 112.981
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "长沙",
+  "name": "长沙世界之窗",
+  "desc": "主题乐园与水上乐园，节假日活动丰富",
+  "price": 150,
+  "duration": "1天",
+  "tags": [
+   "乐园",
+   "亲子"
+  ],
+  "location": {
+   "lat": 28.246,
+   "lon": 113.003
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "漓江景区",
+  "desc": "磨盘山码头至阳朔，九马画山与黄布倒影20元人民币取景地",
+  "price": 210,
+  "duration": "1天",
+  "tags": [
+   "山水",
+   "游船"
+  ],
+  "location": {
+   "lat": 25.233,
+   "lon": 110.489
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "象鼻山",
+  "desc": "桂林城徽，水月洞江中倒影如象汲水",
+  "price": 55,
+  "duration": "2小时",
+  "tags": [
+   "地标",
+   "山水"
+  ],
+  "location": {
+   "lat": 25.262,
+   "lon": 110.299
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "阳朔西街",
+  "desc": "1400年历史洋人街，酒吧与啤酒鱼",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "古镇",
+   "文艺"
+  ],
+  "location": {
+   "lat": 24.774,
+   "lon": 110.493
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "遇龙河竹筏漂流",
+  "desc": "小漓江竹筏漂流，两岸稻田与喀斯特峰林",
+  "price": 240,
+  "duration": "半天",
+  "tags": [
+   "山水",
+   "漂流"
+  ],
+  "location": {
+   "lat": 24.766,
+   "lon": 110.415
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "龙脊梯田",
+  "desc": "龙胜壮瑶梯田，春灌秋收四季皆大片",
+  "price": 80,
+  "duration": "1天",
+  "tags": [
+   "田园",
+   "摄影"
+  ],
+  "location": {
+   "lat": 25.79,
+   "lon": 110.128
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "桂林",
+  "name": "两江四湖夜游",
+  "desc": "夜游桂林环城水系，日月双塔金碧辉煌",
+  "price": 210,
+  "duration": "2-3小时",
+  "tags": [
+   "夜景",
+   "游船"
+  ],
+  "location": {
+   "lat": 25.274,
+   "lon": 110.295
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "武陵源·张家界国家森林公园",
+  "desc": "世界自然遗产，袁家界乾坤柱与金鞭溪，建议2天",
+  "price": 225,
+  "duration": "1-2天",
+  "tags": [
+   "自然风光",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 29.315,
+   "lon": 110.545
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "天门山国家森林公园",
+  "desc": "999级天梯与玻璃栈道，天门洞开天下奇",
+  "price": 275,
+  "duration": "半天",
+  "tags": [
+   "登山",
+   "玻璃栈道"
+  ],
+  "location": {
+   "lat": 29.129,
+   "lon": 110.435
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "张家界大峡谷玻璃桥",
+  "desc": "世界最长玻璃桥，云天渡上漫步峡谷之上",
+  "price": 220,
+  "duration": "半天",
+  "tags": [
+   "网红打卡",
+   "刺激"
+  ],
+  "location": {
+   "lat": 29.397,
+   "lon": 110.688
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "黄龙洞",
+  "desc": "定海神针石笋，洞内暗河乘船，恒温避暑",
+  "price": 100,
+  "duration": "半天",
+  "tags": [
+   "溶洞",
+   "避暑"
+  ],
+  "location": {
+   "lat": 29.368,
+   "lon": 110.55
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "宝峰湖",
+  "desc": "峰林间的高山平湖，游船听土家山歌",
+  "price": 96,
+  "duration": "2-3小时",
+  "tags": [
+   "山水",
+   "游船"
+  ],
+  "location": {
+   "lat": 29.35,
+   "lon": 110.57
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "张家界",
+  "name": "凤凰古城",
+  "desc": "沱江吊脚楼与虹桥夜景（车程约4小时，可顺路安排）",
+  "price": 0,
+  "duration": "1天",
+  "tags": [
+   "古镇",
+   "夜景"
+  ],
+  "location": {
+   "lat": 27.95,
+   "lon": 109.599
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "星海广场",
+  "desc": "亚洲最大城市广场，百年城雕与海滨浴场",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "地标",
+   "海滨"
+  ],
+  "location": {
+   "lat": 38.881,
+   "lon": 121.59
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "老虎滩海洋公园",
+  "desc": "海洋动物馆与极地馆，海豚表演亲子必看",
+  "price": 220,
+  "duration": "1天",
+  "tags": [
+   "亲子",
+   "海洋馆"
+  ],
+  "location": {
+   "lat": 38.881,
+   "lon": 121.713
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "金石滩国家旅游度假区",
+  "desc": "神力雕塑公园与黄金海岸，滨海地质奇观",
+  "price": 0,
+  "duration": "1天",
+  "tags": [
+   "海滨",
+   "地质"
+  ],
+  "location": {
+   "lat": 39.081,
+   "lon": 122.02
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "滨海路·棒棰岛",
+  "desc": "山海相依观光路，木栈道徒步看海",
+  "price": 20,
+  "duration": "半天",
+  "tags": [
+   "海滨",
+   "徒步"
+  ],
+  "location": {
+   "lat": 38.889,
+   "lon": 121.733
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "大连森林动物园",
+  "desc": "白云山麓放养式动物园，圈养散养结合",
+  "price": 120,
+  "duration": "半天",
+  "tags": [
+   "亲子",
+   "动物园"
+  ],
+  "location": {
+   "lat": 38.879,
+   "lon": 121.644
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "大连",
+  "name": "东港音乐喷泉·威尼斯水城",
+  "desc": "贡多拉游船与欧式水城夜景",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "夜景",
+   "文艺"
+  ],
+  "location": {
+   "lat": 38.927,
+   "lon": 121.661
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "哈尔滨冰雪大世界",
+  "desc": "世界最大冰雪主题乐园，冰雕灯光如梦如幻（冬季）",
+  "price": 300,
+  "duration": "半天-1晚",
+  "tags": [
+   "冰雪",
+   "亲子"
+  ],
+  "location": {
+   "lat": 45.803,
+   "lon": 126.58
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "中央大街",
+  "desc": "百年面包石老街，马迭尔冰棍与俄式建筑",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "老街",
+   "欧陆风情"
+  ],
+  "location": {
+   "lat": 45.773,
+   "lon": 126.616
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "圣索菲亚大教堂",
+  "desc": "拜占庭风格东正教堂，绿穹红砖出片圣地",
+  "price": 20,
+  "duration": "1-2小时",
+  "tags": [
+   "建筑",
+   "历史"
+  ],
+  "location": {
+   "lat": 45.772,
+   "lon": 126.617
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "太阳岛风景区",
+  "desc": "松花江北避暑胜地，雪博会与俄式小镇",
+  "price": 30,
+  "duration": "半天",
+  "tags": [
+   "自然风光",
+   "休闲"
+  ],
+  "location": {
+   "lat": 45.797,
+   "lon": 126.6
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "东北虎林园",
+  "desc": "世界最大东北虎繁育基地，乘车观虎",
+  "price": 120,
+  "duration": "2-3小时",
+  "tags": [
+   "亲子",
+   "动物园"
+  ],
+  "location": {
+   "lat": 45.815,
+   "lon": 126.62
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "哈尔滨",
+  "name": "防洪纪念塔·斯大林公园",
+  "desc": "松花江畔地标，冬看冰封江面夏看江风",
+  "price": 0,
+  "duration": "1-2小时",
+  "tags": [
+   "地标",
+   "江畔"
+  ],
+  "location": {
+   "lat": 45.774,
+   "lon": 126.612
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "布达拉宫",
+  "desc": "世界上海拔最高的宫殿，需提前预约并遵朝圣路线",
+  "price": 200,
+  "duration": "半天",
+  "tags": [
+   "人文",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 29.656,
+   "lon": 91.117
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "大昭寺",
+  "desc": "藏传佛教中心，释迦牟尼十二岁等身像",
+  "price": 85,
+  "duration": "2-3小时",
+  "tags": [
+   "宗教",
+   "世界遗产"
+  ],
+  "location": {
+   "lat": 29.65,
+   "lon": 91.132
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "八廓街",
+  "desc": "转经道环形老街，藏式手作与甜茶馆",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "老街",
+   "人文"
+  ],
+  "location": {
+   "lat": 29.65,
+   "lon": 91.133
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "色拉寺",
+  "desc": "辩经圣地，午后激烈辩经场面不容错过",
+  "price": 50,
+  "duration": "2-3小时",
+  "tags": [
+   "宗教",
+   "人文"
+  ],
+  "location": {
+   "lat": 29.673,
+   "lon": 91.136
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "纳木错",
+  "desc": "天湖圣湖，念青唐古拉雪山倒影（一日游，注意高反）",
+  "price": 120,
+  "duration": "1天",
+  "tags": [
+   "湖泊",
+   "自然风光"
+  ],
+  "location": {
+   "lat": 30.755,
+   "lon": 90.668
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "拉萨",
+  "name": "罗布林卡",
+  "desc": "历代达赖夏宫，高原园林与格桑花",
+  "price": 60,
+  "duration": "2小时",
+  "tags": [
+   "园林",
+   "历史"
+  ],
+  "location": {
+   "lat": 29.649,
+   "lon": 91.099
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "中科院西双版纳热带植物园",
+  "desc": "中国最大热带植物园，王莲与绞杀榕奇观",
+  "price": 80,
+  "duration": "1天",
+  "tags": [
+   "植物",
+   "亲子"
+  ],
+  "location": {
+   "lat": 21.918,
+   "lon": 101.25
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "野象谷",
+  "desc": "亚洲象走廊，高空观象栈道与大象学校",
+  "price": 60,
+  "duration": "半天",
+  "tags": [
+   "动物",
+   "亲子"
+  ],
+  "location": {
+   "lat": 22.05,
+   "lon": 100.86
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "曼听公园",
+  "desc": "傣王御花园，夜晚澜沧江湄公河之夜歌舞晚会",
+  "price": 40,
+  "duration": "2-3小时",
+  "tags": [
+   "公园",
+   "演出"
+  ],
+  "location": {
+   "lat": 21.997,
+   "lon": 100.808
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "告庄西双景·星光夜市",
+  "desc": "东南亚最大夜市，傣装写真与菠萝饭",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "夜市",
+   "美食"
+  ],
+  "location": {
+   "lat": 22.006,
+   "lon": 100.796
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "原始森林公园",
+  "desc": "雨林沟谷与孔雀放飞，泼水互动体验",
+  "price": 45,
+  "duration": "半天",
+  "tags": [
+   "雨林",
+   "亲子"
+  ],
+  "location": {
+   "lat": 22.014,
+   "lon": 100.831
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "西双版纳",
+  "name": "傣族园",
+  "desc": "五个傣族村寨组成，天天泼水节",
+  "price": 45,
+  "duration": "半天",
+  "tags": [
+   "民族文化",
+   "泼水"
+  ],
+  "location": {
+   "lat": 21.93,
+   "lon": 100.917
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "龙门石窟",
+  "desc": "世界文化遗产，卢舍那大佛微笑千年",
+  "price": 90,
+  "duration": "半天",
+  "tags": [
+   "世界遗产",
+   "古迹"
+  ],
+  "location": {
+   "lat": 34.559,
+   "lon": 112.472
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "白马寺",
+  "desc": "中国第一古刹，佛教传入中国第一寺",
+  "price": 35,
+  "duration": "2-3小时",
+  "tags": [
+   "宗教",
+   "古迹"
+  ],
+  "location": {
+   "lat": 34.727,
+   "lon": 112.582
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "洛阳博物馆",
+  "desc": "河洛文明珍宝，唐三彩与曹魏白玉杯",
+  "price": 0,
+  "duration": "半天",
+  "tags": [
+   "博物馆",
+   "历史"
+  ],
+  "location": {
+   "lat": 34.619,
+   "lon": 112.465
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "丽景门·老城十字街",
+  "desc": "中原第一门，夜市水席与不翻汤",
+  "price": 0,
+  "duration": "2-3小时",
+  "tags": [
+   "老街",
+   "美食"
+  ],
+  "location": {
+   "lat": 34.683,
+   "lon": 112.477
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "关林",
+  "desc": "关羽首级安葬地，关公信俗文化圣地",
+  "price": 40,
+  "duration": "2小时",
+  "tags": [
+   "古迹",
+   "人文"
+  ],
+  "location": {
+   "lat": 34.579,
+   "lon": 112.47
+  },
+  "loc_source": "approx"
+ },
+ {
+  "city": "洛阳",
+  "name": "中国国花园",
+  "desc": "四月牡丹花开倾城，姚黄魏紫争艳",
+  "price": 50,
+  "duration": "半天",
+  "tags": [
+   "赏花",
+   "公园"
+  ],
+  "location": {
+   "lat": 34.635,
+   "lon": 112.447
+  },
+  "loc_source": "approx"
+ }
+]

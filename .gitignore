@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 运行时数据
+backend/data/travel.db
+backend/data/vectors/
+backend/data/knowledge/uploads/
+backend/data/runtime_config.json
+backend/*.log
+*.log
+backend/smoke_out*.txt
+
+# Node
+node_modules/
+dist/
+
+# 环境
+.env
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
