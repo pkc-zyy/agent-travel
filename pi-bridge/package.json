@@ -1,0 +1,20 @@
+{
+  "name": "pi-travel-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Pi agent × TravelAgent MCP 桥接：用 @earendil-works/pi-agent-core 作为通用 Agent 运行时，经 MCP 协议驱动旅行工具",
+  "scripts": {
+    "list-tools": "node src/bridge.mjs --list-tools",
+    "ask": "node src/bridge.mjs --ask",
+    "start": "node src/bridge.mjs"
+  },
+  "dependencies": {
+    "@earendil-works/pi-agent-core": "^0.85.1",
+    "@earendil-works/pi-ai": "^0.85.1",
+    "@modelcontextprotocol/sdk": "^1.30.0"
+  },
+  "engines": {
+    "node": ">=20.6"
+  }
+}

@@ -147,12 +147,13 @@ RRF 融合（Reciprocal Rank Fusion）→ 城市感知重排 → 注入上下文
 
 ## 🔌 MCP 设计
 
-- **MCP Server**（`app/mcp_server/travel_mcp.py`）：FastMCP，暴露 `get_weather / search_hotels / search_attractions / kb_search / save_feedback / get_user_preferences` 等 9 个工具。
+- **MCP Server**（`app/mcp_server/travel_mcp.py`）：FastMCP，暴露 `get_weather / search_hotels / search_attractions / get_city_info_tool / list_cities / kb_search / get_city_guide / web_search / save_feedback / get_user_preferences` 共 10 个工具。
 - **MCP Client**（`app/mcp_server/client.py`）：Agent 经 MCP 协议（in-memory transport，真实 `initialize → tools/call` 握手）调用工具，协议层加锁保证并发安全。
 - **对外开放**：FastAPI 挂载 `/mcp`（SSE 传输），任何标准 MCP 客户端（Claude Desktop / Cursor 等）可连接：
   ```
   mcp 服务器配置：transport=sse, url=http://localhost:8000/mcp
   ```
+- **Pi 桥接（`pi-bridge/`）**：跨框架互操作示例——用 [Pi agent](https://github.com/earendil-works/pi)（`@earendil-works/pi-agent-core`，TypeScript）作为通用 Agent 运行时，经 MCP 协议驱动上述 10 个旅行工具，支持交互对话 / 单次提问 / 工具列表三种模式，详见 [`pi-bridge/README.md`](pi-bridge/README.md)。
 
 ## 🧠 记忆与上下文管理
 

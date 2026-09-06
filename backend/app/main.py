@@ -103,18 +103,32 @@ async def monitor_http_requests(request: Request, call_next):
     return response
 
 # ==================== MCP Server（SSE 传输） ====================
-_mcp_transport = SseServerTransport("/mcp/messages/")
+_mcp_transport = SseServerTransport("/messages/")
 
 
 async def _handle_mcp_sse(request):
-    async with travel_mcp.run(_mcp_transport.handle_sse(request)) as streams:
-        await streams[0]()
+    # mcp>=1.29 的 SseServerTransport 只有 connect_sse（旧的 handle_sse 已移除）
+    async with _mcp_transport.connect_sse(request.scope, request.receive, request._send) as (
+        reader,
+        writer,
+    ):
+        await travel_mcp._mcp_server.run(
+            reader,
+            writer,
+            travel_mcp._mcp_server.create_initialization_options(),
+        )
+
+
+async def _handle_mcp_post(request):
+    # mcp>=1.29 的 handle_post_message 是原生 ASGI 签名 (scope, receive, send)
+    await _mcp_transport.handle_post_message(request.scope, request.receive, request._send)
 
 
 _mcp_app = Starlette(
     routes=[
-        Route("/mcp", _handle_mcp_sse),
-        Route("/mcp/messages/", _mcp_transport.handle_post_message, methods=["POST"]),
+        # 挂载在 /mcp 前缀下，内部路径 "/" 即外部 GET /mcp（SSE 流）
+        Route("/", _handle_mcp_sse),
+        Route("/messages/", _handle_mcp_post, methods=["POST"]),
     ]
 )
 app.mount("/mcp", _mcp_app, name="mcp")
